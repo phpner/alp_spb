@@ -14,8 +14,6 @@
 <?php include "./blocks/why-we.php" ?>
 <!--Сила ветра-->
 <?php include "./blocks/wind-force.php" ?>
-<!--Остались вопросы?-->
-<?php include "./blocks/have_questions.php" ?>
 <div class="container xref-block">
     <div class="row">
         <ul class="xref">
@@ -23,6 +21,9 @@
         </ul>
     </div>
 </div>
+<!--Остались вопросы?-->
+<?php include "./blocks/have_questions.php" ?>
+
 <footer class="dark">
     <div class="subfooter">
         <div class="container">
@@ -34,7 +35,6 @@
                         </p>
                         <br class="dell-br">
                         <br class="dell-br">
-                        <br>
                         <p style="">Заполняя любую форму на сайте, вы соглашаетесь
                             <br>с <a style="text-decoration: underline;" href="local/assets/files/Scan_20180111_164835.pdf" target="_blank">политикой конфиденциальности</a>.</p>
                     </div>

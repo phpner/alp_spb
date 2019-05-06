@@ -15,6 +15,7 @@
     <link href="css/font-awesome/css/font-awesome.css" rel="stylesheet">
     <link href="css/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="css/style-main.css" type="text/css" rel="stylesheet" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 </head>
 <body>
 <div id="panel"></div>

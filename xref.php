@@ -37,6 +37,6 @@ $links = [
     '<li class=""><a href="/prochie-vysotnye-raboty.php">другие высотные работы</a></li>'
 ];
 
-$rand_keys = array_rand($links, 5);
+$rand_keys = array_rand($links, 4);
 
-echo $links[$rand_keys[0]], $links[$rand_keys[1]], $links[$rand_keys[2]], $links[$rand_keys[3]], $links[$rand_keys[4]];
+echo $links[$rand_keys[0]], $links[$rand_keys[1]], $links[$rand_keys[2]], $links[$rand_keys[3]];

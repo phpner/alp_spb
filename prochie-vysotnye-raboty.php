@@ -10,7 +10,6 @@ $alt4="прайс на высотные работы";
 //$price_tabel = 'prochie-vysotnye-raboty';
 $active_menu = 2;
 
-//$price_tabel = 'prochie-vysotnye-raboty';
 
 include "top-uslugy.php";
 ?>

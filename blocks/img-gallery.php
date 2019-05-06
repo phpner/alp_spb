@@ -95,7 +95,7 @@
                     </div>
                 </div>
                 <div>
-                    <a class="link-org" href="page-gallery.php">Посмотреть всё</a>
+                    <a class="link-org" href="gallery.php">Посмотреть всё</a>
                 </div>
             </div>
         </div>

@@ -2494,7 +2494,7 @@
 
 [dir=rtl] .mm-listitem__btn:not(.mm-listitem__text) { padding-right: 0; border-right-width: 1px; border-right-style: solid; }
 
-.mm-page { -webkit-box-sizing: border-box; box-sizing: border-box; position: relative; }
+.mm-page { -webkit-box-sizing: border-box; box-sizing: border-box;  }
 
 .mm-slideout { -webkit-transition: -webkit-transform .4s ease; transition: -webkit-transform .4s ease; -o-transition: transform .4s ease; transition: transform .4s ease; transition: transform .4s ease,-webkit-transform .4s ease; z-index: 1; }
 
@@ -3893,7 +3893,11 @@ hr { width: 50px; height: 5px; margin-bottom: 0; border: none; }
 
 .work-with .but-zvon p:hover { background-color: #e8e8e8; color: #ff9600; }
 
-.work-with .but-zvon { font-family: Roboto,sans-serif; font-weight: 300; -webkit-box-pack: center; -webkit-justify-content: center; -moz-box-pack: center; -ms-flex-pack: center; justify-content: center; }
+.work-with .but-zvon {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: Roboto,sans-serif; font-weight: 300; -webkit-box-pack: center; -webkit-justify-content: center; -moz-box-pack: center; -ms-flex-pack: center; justify-content: center; }
 
 #second .thumbnail, .work-with .but-zvon { display: -webkit-box; display: -webkit-flex; display: -moz-box; display: -ms-flexbox; display: flex; }
 
@@ -4197,13 +4201,14 @@ input.error, textarea.error { border-color: #882626 !important; }
 .form-kontact form{
   width: 750px;
   margin: auto;
-  padding: 30px 0;
+  padding: 30px;
 }
 
 .form-kontact form button[type=submit]{
   float: none!important;
   margin: auto;
   display: block;
+  margin-top: 20px;
 }
 
 input[type=file] {
@@ -4307,6 +4312,12 @@ input[type=file] {
   }
   .logo{
     right: 0;
+  }
+
+  .form-kontact form{
+    width: 100%;
+    margin: auto;
+    padding: 30px 30px;
   }
 }
 
