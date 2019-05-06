@@ -1,0 +1,917 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html class="ie9"> <![endif]-->
+<!--[if IE 8]> <html class="ie8"> <![endif]-->
+<!--[if !IE]><!-->
+<html>
+<!--<![endif]-->
+<head>
+	<title>Страница не найдена (404 Not Found)</title>
+	<meta name="robots" content="all">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="keywords" content="ошибка 404 страница не найдена" />
+	<meta name="description" content="К сожалению, данная страница не найдена (ошибка 404)." />
+
+	<link type="image/x-icon" rel="shortcut icon" href="../favicon.ico" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link href='../../https@fonts.googleapis.com/css@family=Open+Sans_3A400,400italic,700,700italic,300,300italic&subset=latin,cyrillic,latin-ext,cyrillic-ext' rel='stylesheet' type='text/css'>
+	<link href='../../https@fonts.googleapis.com/css@family=PT+Serif_3A400,400italic,700,700italic&subset=latin,cyrillic,cyrillic-ext,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/fonts/fontello/css/fontello.css" rel="stylesheet">
+
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/bootstrap/css/bootstrap.css" rel="stylesheet">
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/plugins/rs-plugin/css/settings.css" media="screen" rel="stylesheet">
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/plugins/rs-plugin/css/extralayers.css" media="screen" rel="stylesheet">
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/plugins/magnific-popup/magnific-popup.css" rel="stylesheet">
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/css/animations.css" rel="stylesheet">
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/plugins/owl-carousel/owl.carousel.css" rel="stylesheet">
+	<link href="../local/assets/styles/slick.css" rel="stylesheet">
+	<link href="../local/assets/styles/slick-theme.css" rel="stylesheet">
+	<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="../bitrix/cache/css/s1/s1_detail_effortless_sergeland/kernel_main/kernel_main.css@154197289131472" type="text/css"  rel="stylesheet" />
+<link href="../bitrix/cache/css/s1/s1_detail_effortless_sergeland/template_0b1ca9c6194574e1f173ef1f1274f389/template_0b1ca9c6194574e1f173ef1f1274f389.css@1541972891150350" type="text/css"  data-template-style="true"  rel="stylesheet" />
+
+	<!-- Theme CSS -->
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/css/theme/color/dark_cyan.css" rel="stylesheet" type="text/css">
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/css/theme/background/background10.css" rel="stylesheet" type="text/css">
+	<link href="../bitrix/templates/s1_detail_effortless_sergeland/css/theme/boxed/boxed.css" rel="stylesheet" type="text/css">
+
+	<link href="../local/assets/styles/common.css" rel="stylesheet">
+
+	
+															
+
+
+		<meta name="yandex-verification" content="8439e8c93816f98c" />
+<meta name="google-site-verification" content="7ScicR3oQkEy9_wH6VDfxdbxdtgRF58um3fDJ1LDNxI" />
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+					<![endif]-->
+</head>
+<body><div id="panel"></div>
+<div class="page-wrapper">
+	
+		<div class="header-top default">
+		<div class="container">
+			<div class="row">
+								<div class="col-xs-12 col-sm-4 col-md-3 col-lg-5 head_slog">
+					<div class="logo ">
+							<a class="group_company" href="../default.htm" title="«БАРСТТ» - промышленный альпинизм"></a>
+						</div>
+					
+					<!--<a class="group_company" href="http://gk.barstt.ru"></a>-->
+					<div class="site-slogan">
+	<span class="head_slog_large_text">Более 17 лет</span> на рынке<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;промышленного альпинизма
+</div>
+<br>				</div>
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-2 mailto">
+					<span class="icon_mail"></span><a href="mailto:info@barstt.ru">info@barstt.ru</a>
+				</div>
+				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-3 header-top__phones">
+				
+										<span class="icon_phone"></span>
+										<span class="phone"><span class="top-phone "><a class="mgo-number-11523" href="tel_3A+74993222040">+7 (499) 322 20 40</a></span></span>
+						
+					
+				</div>
+				<div class="col-xs-12 col-sm-1 col-md-2 col-lg-2 top_button">
+
+					<div class="header-top-dropdown">
+						<div class="btn-group dropdown">
+							<button type="button" class="btn dropdown-toggle hidden-xs hidden-sm modal_enter new_top_button" data-toggle="dropdown" onclick="yaCounter15672001.reachGoal('zakaz_z_sh');"> Заказать звонок</button>
+
+							<button type="button" class="btn dropdown-toggle hidden-lg hidden-md modal_enter" data-toggle="dropdown" onclick="yaCounter15672001.reachGoal('zakaz_z_sh');"><i class="fa fa-phone text-default"></i></button>
+							
+						</div>
+											</div>
+					<div class="search-form">
+<form action="/stranitsa-poiska.php">
+	<table border="0" cellspacing="0" cellpadding="2" align="center">
+		<tr>
+			<td align="center"><input type="text" name="q" value="" size="15" maxlength="50" /><input class="search-button" name="s" type="submit" value="Поиск" /></td>
+		</tr>	
+	</table>
+</form>
+</div>					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+		<header class="header menu-transparent float white clearfix">
+		<div class="container">
+			<div class="row">
+				<!--<div class="col-md-2 col-xs-12">
+					<div class="header-left clearfix">
+						<div class="logo">
+							<a class="group_company" href="/" title="«БАРСТТ» - промышленный альпинизм"></a>
+						</div>
+					</div>
+				</div> -->
+				<div class="col-md-2 col-xs-12">
+										<span  class="phone"><i class="fa fa-phone"></i>
+											<span class="pm-phone"><a class="mgo-number-11523" href="tel_3A+74955174606">+7 (495) 517 46 06</a></span>
+										</span>
+				</div>
+				<div class="col-md-7 col-xs-12">
+					<div class="header-right clearfix">
+						<div class="main-navigation animated">
+	<nav class="navbar navbar-default" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+					<span class="sr-only">Меню</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse" id="navbar-collapse-1">
+				<ul class="nav navbar-nav navbar-right">
+											
+																					<li class="active"><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../default.htm">Главная</a></li>
+																														
+																					<li class="dropdown ">
+																			<div class="dropdown-toggle disabled menu-first-lvl" data-toggle="dropdown">
+																				Услуги																			</div>
+																		<ul class="dropdown-menu">
+																														
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/default.htm">Фасадные работы</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/gidrofobizaciya-fasada/default.htm">Гидрофобизация фасада</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/gidrofobizaciya-fasada/ceny-gidrofobizaciya-fasada/default.htm">Прайс-лист</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/shtukaturka-fasada/default.htm">Штукатурка фасада</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/shtukaturka-fasada/ceny-shtukaturka-fasada/default.htm">Прайс-лист</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/remont-montag-ventfasadov/default.htm">Ремонт и монтаж вентфасада</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/remont-montag-ventfasadov/ceny-remont-montag-ventfasadov/default.htm">Прайс-лист</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/pokraska-fasada/default.htm">Покраска фасада</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/pokraska-fasada/ceny-pokraska-fasada/default.htm">Прайс-лист</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/uteplenie-fasada/default.htm">Утепление фасадов</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/uteplenie-fasada/ceny-uteplenie-fasada/default.htm">Прайс-лист</a></li>
+																																					</ul></li>						
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/restavraciya-fasada/default.htm">Реставрация фасада</a></li>
+																														
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/ustroystvo-mokrogo-fasada/default.htm">Устройство мокрого фасада</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/ustroystvo-mokrogo-fasada/ceny-ustroystvo-mokrogo-fasada/default.htm">Прайс-лист </a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/otdelka-fasada-kamnem/default.htm">Отделка фасада камнем</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/otdelka-fasada-kamnem/ceny-otdelki-fasada-kamnem/default.htm">Прайс-лист</a></li>
+																																					</ul></li>						
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/otdelka-fasadov-iskusstvennym-kamnem/default.htm">Отделка фасадов искусственным камнем</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../fasadnye-raboty/otdelka-fasadov-naturalnym-kamnem/default.htm">Отделка фасадов натуральным камнем</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/default.htm">Кровельные работы </a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/montaj-krovli/default.htm">Монтаж кровли</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/montaj-krovli/paroizolyaciya-teploizolyaciya/default.htm">Монтаж пароизоляции и теплоизоляции</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/montaj-krovli/parapet-svesy/default.htm">Монтаж парапетов и свесов</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/montaj-krovli/ograjdeniya-kryshi/default.htm">Монтаж ограждения крыши</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/montaj-krovli/snegozaderjateli/default.htm">Монтаж снегозадержателей</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/montaj-krovli/sistema-antiobledeneniya/default.htm">Монтаж системы антиобледенения</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/montaj-krovli/ceny-montaj-krovli/default.htm">Прайс-лист</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/montaj-krovli/falc-krovli/default.htm">Монтаж металлической кровли</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/montaj-krovli/myagkoy-krovli/default.htm">Монтаж мягкой кровли</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/montaj-krovli/demontaj-myagkoy-krovli/default.htm">Демонтаж мягкой кровли</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/ustroystvo-krovli/default.htm">Устройство кровли</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/ustroystvo-krovli/skatnaya/default.htm">Устройство скатной кровли</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/ustroystvo-krovli/falcevaya/default.htm">Устройство фальцевой кровли</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/ustroystvo-krovli/nalivnaya/default.htm">Устройство наливной кровли</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/ustroystvo-krovli/stelyannaya/default.htm">Устройство стеклянной кровли</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/ustroystvo-krovli/ceny-ustroystvo-krovli/default.htm">Прайс-лист</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/ustroystvo-krovli/polikarbonat/default.htm">Устройство кровли из поликарбоната</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/ustroystvo-krovli/membrannaya/default.htm">Устройство мембранной кровли</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/ustroystvo-krovli/styajka-razuklonka/default.htm">Устройство стяжки с разуклонкой</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/remont-krovli/default.htm">Ремонт кровли</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/remont-krovli/myagkoy/default.htm">Ремонт мягкой кровли</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/remont-krovli/metallicheskoy/default.htm">Ремонт металлической кровли</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/remont-krovli/germetizaciya-falc/default.htm">Герметизация металлической кровли</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/remont-krovli/ceny-remont-krovli/default.htm">Прайс-лист</a></li>
+																																					</ul></li>						
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../krovelnye-raboty/ceny-krovelnye-raboty/default.htm">Прайс-лист</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/default.htm">Монтажные работы</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-reklamy/default.htm">Монтаж-демонтаж рекламы</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-reklamy/svetovoy-korob/default.htm">Монтаж светового короба</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-reklamy/reklamnye-bukvy/default.htm">Монтаж рекламных букв</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-reklamy/vyveski/default.htm">Монтаж вывески</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-reklamy/duralayt/default.htm">Монтаж дюралайта</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-reklamy/element-podsvetki/default.htm">Монтаж элементов подсветки</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-reklamy/ceny-montaj-demontaj-reklamy/default.htm">Прайс-лист </a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-reklamy/neonovaya-reklama/default.htm">Монтаж неоновой рекламы</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-reklamy/nakleyka-plenki/default.htm">Наклейка рекламной пленки</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-reklamy/banner/default.htm">Монтаж баннера</a></li>
+																																					</ul></li>						
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/novogodnie-ukrasheniya/default.htm">Новогоднее украшение фасадов и елки</a></li>
+																														
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-vodostokov/default.htm">Монтаж-демонтаж водосточных систем</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-vodostokov/ceny-montaj-demontaj-vodostokov/default.htm">Прайс-лист</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-steklopaketov/default.htm">Монтаж-демонтаж стеклопакетов</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-steklopaketov/ceny-montaj-demontaj-steklopaketov/default.htm">Прайс-лист </a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-vozduhovodov/default.htm">Монтаж-демонтаж воздуховодов</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-vozduhovodov/ceny-montaj-demontaj-vozduhovodov/default.htm">Прайс-лист</a></li>
+																																					</ul></li>						
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-demontaj-konstrukciy/default.htm">Монтаж-демонтаж конструкций</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/demontaj-dymohodov/default.htm">Демонтаж дымоходов</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/montaj-narujnogo-osvesheniya/default.htm">Монтаж наружного освещения</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/pokraska-dymovyh-trub/default.htm">Покраска дымовых труб</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/remont-dymovyh-trub/default.htm">Ремонт дымовых труб</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../montajnye-raboty/ceny-montajnye-raboty/default.htm">Прайс-лист </a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../blagoustroystvo-territorii/default.htm">Благоустройство территории</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../blagoustroystvo-territorii/uborka-vyvoz-snega/default.htm">Уборка и вывоз снега</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../blagoustroystvo-territorii/kronirovanie/default.htm">Кронирование, спил веток</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../blagoustroystvo-territorii/spil-derevev/default.htm">Спил деревьев</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../blagoustroystvo-territorii/montaj-demontaj-dorojnyh-znakov/default.htm">Дорожные знаки и светофоры</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../blagoustroystvo-territorii/montaj-demontaj-detskih-ploshadok/default.htm">Монтаж-демонтаж детских площадок</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../blagoustroystvo-territorii/ukladka-bruschatki/default.htm">Укладка брусчатки</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../blagoustroystvo-territorii/zemlyanye-raboty/default.htm">Земляные работы</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../blagoustroystvo-territorii/ozelenenie-territorii/default.htm">Озеленение территории</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../moyka-ochistka-fasada/default.htm">Мойка и очистка фасада</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../moyka-ochistka-fasada/vruchnuyu/default.htm">Мойка окон и фасадов вручную</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../moyka-ochistka-fasada/avd/default.htm">Мойка с АВД</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../moyka-ochistka-fasada/chistka-ot-snega-naledi/default.htm">Очистка кровель от снега и наледи</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../moyka-ochistka-fasada/reklamnyh-konstrukciy/default.htm">Мойка рекламных и иных конструкций</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../moyka-ochistka-fasada/kislotno-shelochnye-sredstva/default.htm">Мойка кислотно-щелочными средствами</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../moyka-ochistka-fasada/ot-solevyh-otslojneniy/default.htm">Очистка от солевых отложений</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../moyka-ochistka-fasada/mramornyh-granitnyh-pokrytiy/default.htm">Очистка мраморных гранитных покрытий</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../moyka-ochistka-fasada/poslestroitelnaya/default.htm">Послестроительная мойка зданий</a></li>
+																																					</ul></li>						
+																					<li class="dropdown "><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../germetizaciya/default.htm">Герметизация</a>
+									<ul class="dropdown-menu to-right">
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../germetizaciya/okna-balkony/default.htm">Герметизация окон и балконов</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../germetizaciya/mejpanelnyh-shvov/default.htm">Герметизация межпанельных швов</a></li>
+																																					</ul></li>						
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../podnyatie-gruzov-na-vysotu/default.htm">Поднятие грузов на высоту</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../obespylivanie/default.htm">Обеспыливание</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../razmetka-ukladka-asfalta/default.htm">Разметка и укладка асфальта</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../engeenier-sistems/default.htm">Инженерные системы</a></li>
+																																					</ul></li>						
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../prices/default.htm">Цены</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../portfolio/default.htm">Портфолио</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../about/default.htm">О компании</a></li>
+																														
+																					<li class=""><a class="dropdown-toggle disabled" data-toggle="dropdown" href="../contacts/default.htm">Контакты</a></li>
+																																	</ul>
+			</div>
+		</div>
+	</nav>
+</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<div class="page-intro">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<ul class="breadcrumb"><li class="active">Главная</li></ul>				</div>
+			</div>
+		</div>
+	</div>
+	<section class="main-container">
+		<div class="container">
+			<div class="row">
+								<div class="col-md-3 hidden-xs hidden-sm">
+					<div class="sidebar">
+						<div class="block">
+							<nav>
+	<ul class="nav nav-pills nav-stacked">
+							<li ><a href="../fasadnye-raboty/default.htm">Фасадные работы<i class="far fa-angle-right fa-angle-right__js"></i></a>
+				<ul>
+											<li ><a href="../fasadnye-raboty/gidrofobizaciya-fasada/default.htm">Гидрофобизация фасада</a>
+				<ul>
+												<li ><a href="../fasadnye-raboty/gidrofobizaciya-fasada/ceny-gidrofobizaciya-fasada/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../fasadnye-raboty/shtukaturka-fasada/default.htm">Штукатурка фасада</a>
+				<ul>
+												<li ><a href="../fasadnye-raboty/shtukaturka-fasada/ceny-shtukaturka-fasada/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../fasadnye-raboty/remont-montag-ventfasadov/default.htm">Ремонт и монтаж вентфасада</a>
+				<ul>
+												<li ><a href="../fasadnye-raboty/remont-montag-ventfasadov/ceny-remont-montag-ventfasadov/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../fasadnye-raboty/pokraska-fasada/default.htm">Покраска фасада</a>
+				<ul>
+												<li ><a href="../fasadnye-raboty/pokraska-fasada/ceny-pokraska-fasada/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../fasadnye-raboty/uteplenie-fasada/default.htm">Утепление фасадов</a>
+				<ul>
+												<li ><a href="../fasadnye-raboty/uteplenie-fasada/ceny-uteplenie-fasada/default.htm">Прайс-лист</a></li>
+							</ul></li>								<li ><a href="../fasadnye-raboty/restavraciya-fasada/default.htm">Реставрация фасада</a></li>
+											<li ><a href="../fasadnye-raboty/ustroystvo-mokrogo-fasada/default.htm">Устройство мокрого фасада</a>
+				<ul>
+												<li ><a href="../fasadnye-raboty/ustroystvo-mokrogo-fasada/ceny-ustroystvo-mokrogo-fasada/default.htm">Прайс-лист </a></li>
+							</ul></li>							<li ><a href="../fasadnye-raboty/otdelka-fasada-kamnem/default.htm">Отделка фасада камнем</a>
+				<ul>
+												<li ><a href="../fasadnye-raboty/otdelka-fasada-kamnem/ceny-otdelki-fasada-kamnem/default.htm">Прайс-лист</a></li>
+							</ul></li>								<li ><a href="../fasadnye-raboty/otdelka-fasadov-iskusstvennym-kamnem/default.htm">Отделка фасадов искусственным камнем</a></li>
+												<li ><a href="../fasadnye-raboty/otdelka-fasadov-naturalnym-kamnem/default.htm">Отделка фасадов натуральным камнем</a></li>
+							</ul></li>							<li ><a href="../krovelnye-raboty/default.htm">Кровельные работы <i class="far fa-angle-right fa-angle-right__js"></i></a>
+				<ul>
+											<li ><a href="../krovelnye-raboty/montaj-krovli/default.htm">Монтаж кровли</a>
+				<ul>
+											<li ><a href="../krovelnye-raboty/montaj-krovli/paroizolyaciya-teploizolyaciya/default.htm">Монтаж пароизоляции и теплоизоляции</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/montaj-krovli/paroizolyaciya-teploizolyaciya/ceny-paroizolyaciya-teploizolyaciya/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../krovelnye-raboty/montaj-krovli/parapet-svesy/default.htm">Монтаж парапетов и свесов</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/montaj-krovli/parapet-svesy/ceny-parapety-svesy/default.htm">Прайс-лист</a></li>
+							</ul></li>								<li ><a href="../krovelnye-raboty/montaj-krovli/ograjdeniya-kryshi/default.htm">Монтаж ограждения крыши</a></li>
+											<li ><a href="../krovelnye-raboty/montaj-krovli/snegozaderjateli/default.htm">Монтаж снегозадержателей</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/montaj-krovli/snegozaderjateli/ceny-snegozaderjateli/default.htm">Прайс-лист</a></li>
+							</ul></li>								<li ><a href="../krovelnye-raboty/montaj-krovli/sistema-antiobledeneniya/default.htm">Монтаж системы антиобледенения</a></li>
+												<li ><a href="../krovelnye-raboty/montaj-krovli/ceny-montaj-krovli/default.htm">Прайс-лист</a></li>
+											<li ><a href="../krovelnye-raboty/montaj-krovli/falc-krovli/default.htm">Монтаж металлической кровли</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/montaj-krovli/falc-krovli/ceny-metallicheskaya-krovlya/default.htm">Прайс-лист</a></li>
+							</ul></li>								<li ><a href="../krovelnye-raboty/montaj-krovli/myagkoy-krovli/default.htm">Монтаж мягкой кровли</a></li>
+											<li ><a href="../krovelnye-raboty/montaj-krovli/demontaj-myagkoy-krovli/default.htm">Демонтаж мягкой кровли</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/montaj-krovli/demontaj-myagkoy-krovli/ceny-demontaj-myagkoy-krovli/default.htm">Прайс-лист</a></li>
+							</ul></li></ul></li>							<li ><a href="../krovelnye-raboty/ustroystvo-krovli/default.htm">Устройство кровли</a>
+				<ul>
+											<li ><a href="../krovelnye-raboty/ustroystvo-krovli/skatnaya/default.htm">Устройство скатной кровли</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/ustroystvo-krovli/skatnaya/ceny-skatnaya-krovlya/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../krovelnye-raboty/ustroystvo-krovli/falcevaya/default.htm">Устройство фальцевой кровли</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/ustroystvo-krovli/falcevaya/ceny-ustroystvo-metallicheskaya-krovlya/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../krovelnye-raboty/ustroystvo-krovli/nalivnaya/default.htm">Устройство наливной кровли</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/ustroystvo-krovli/nalivnaya/ceny-nalivnaya-krovlya/default.htm">Прайс-лист</a></li>
+							</ul></li>								<li ><a href="../krovelnye-raboty/ustroystvo-krovli/stelyannaya/default.htm">Устройство стеклянной кровли</a></li>
+												<li ><a href="../krovelnye-raboty/ustroystvo-krovli/ceny-ustroystvo-krovli/default.htm">Прайс-лист</a></li>
+												<li ><a href="../krovelnye-raboty/ustroystvo-krovli/polikarbonat/default.htm">Устройство кровли из поликарбоната</a></li>
+												<li ><a href="../krovelnye-raboty/ustroystvo-krovli/membrannaya/default.htm">Устройство мембранной кровли</a></li>
+												<li ><a href="../krovelnye-raboty/ustroystvo-krovli/styajka-razuklonka/default.htm">Устройство стяжки с разуклонкой</a></li>
+							</ul></li>							<li ><a href="../krovelnye-raboty/remont-krovli/default.htm">Ремонт кровли</a>
+				<ul>
+											<li ><a href="../krovelnye-raboty/remont-krovli/myagkoy/default.htm">Ремонт мягкой кровли</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/remont-krovli/myagkoy/ceny-remont-myagkoy-krovli/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../krovelnye-raboty/remont-krovli/metallicheskoy/default.htm">Ремонт металлической кровли</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/remont-krovli/metallicheskoy/ceny-remont-falcevoy-krovli/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../krovelnye-raboty/remont-krovli/germetizaciya-falc/default.htm">Герметизация металлической кровли</a>
+				<ul>
+												<li ><a href="../krovelnye-raboty/remont-krovli/germetizaciya-falc/ceny-germetizaciya-falcevoy-krovli/default.htm">Прайс-лист</a></li>
+							</ul></li>								<li ><a href="../krovelnye-raboty/remont-krovli/ceny-remont-krovli/default.htm">Прайс-лист</a></li>
+							</ul></li>								<li ><a href="../krovelnye-raboty/ceny-krovelnye-raboty/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../montajnye-raboty/default.htm">Монтажные работы<i class="far fa-angle-right fa-angle-right__js"></i></a>
+				<ul>
+											<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/default.htm">Монтаж-демонтаж рекламы</a>
+				<ul>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/svetovoy-korob/default.htm">Монтаж светового короба</a></li>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/reklamnye-bukvy/default.htm">Монтаж рекламных букв</a></li>
+											<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/vyveski/default.htm">Монтаж вывески</a>
+				<ul>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/vyveski/ceny-montaj-demontaj-vyveski/default.htm">Прайс-лист</a></li>
+							</ul></li>								<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/duralayt/default.htm">Монтаж дюралайта</a></li>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/element-podsvetki/default.htm">Монтаж элементов подсветки</a></li>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/ceny-montaj-demontaj-reklamy/default.htm">Прайс-лист </a></li>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/neonovaya-reklama/default.htm">Монтаж неоновой рекламы</a></li>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/nakleyka-plenki/default.htm">Наклейка рекламной пленки</a></li>
+											<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/banner/default.htm">Монтаж баннера</a>
+				<ul>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-reklamy/banner/ceny-montaj-demontaj-bannerov/default.htm">Прайс-лист</a></li>
+							</ul></li></ul></li>								<li ><a href="../montajnye-raboty/novogodnie-ukrasheniya/default.htm">Новогоднее украшение фасадов и елки</a></li>
+											<li ><a href="../montajnye-raboty/montaj-demontaj-vodostokov/default.htm">Монтаж-демонтаж водосточных систем</a>
+				<ul>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-vodostokov/ceny-montaj-demontaj-vodostokov/default.htm">Прайс-лист</a></li>
+							</ul></li>							<li ><a href="../montajnye-raboty/montaj-demontaj-steklopaketov/default.htm">Монтаж-демонтаж стеклопакетов</a>
+				<ul>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-steklopaketov/ceny-montaj-demontaj-steklopaketov/default.htm">Прайс-лист </a></li>
+							</ul></li>							<li ><a href="../montajnye-raboty/montaj-demontaj-vozduhovodov/default.htm">Монтаж-демонтаж воздуховодов</a>
+				<ul>
+												<li ><a href="../montajnye-raboty/montaj-demontaj-vozduhovodov/ceny-montaj-demontaj-vozduhovodov/default.htm">Прайс-лист</a></li>
+							</ul></li>								<li ><a href="../montajnye-raboty/montaj-demontaj-konstrukciy/default.htm">Монтаж-демонтаж конструкций</a></li>
+												<li ><a href="../montajnye-raboty/demontaj-dymohodov/default.htm">Демонтаж дымоходов</a></li>
+												<li ><a href="../montajnye-raboty/montaj-narujnogo-osvesheniya/default.htm">Монтаж наружного освещения</a></li>
+												<li ><a href="../montajnye-raboty/pokraska-dymovyh-trub/default.htm">Покраска дымовых труб</a></li>
+												<li ><a href="../montajnye-raboty/remont-dymovyh-trub/default.htm">Ремонт дымовых труб</a></li>
+												<li ><a href="../montajnye-raboty/ceny-montajnye-raboty/default.htm">Прайс-лист </a></li>
+										<li ><a class="dropdown__js dropdown-li">Монтажные работы в МО<i class="far fa-angle-right fa-angle-right__js"></i></a>
+			<ul>
+												<li ><a href="../montajnye-raboty/aprelevka-montajnye-raboty/default.htm">Апрелевка</a></li>
+												<li ><a href="../montajnye-raboty/balashiha-montajnye-raboty/default.htm">Балашиха</a></li>
+												<li ><a href="../montajnye-raboty/vidnoe-montajnye-raboty/default.htm">Видное</a></li>
+												<li ><a href="../montajnye-raboty/voskresensk-montajnye-raboty/default.htm">Воскресенск</a></li>
+												<li ><a href="../montajnye-raboty/dedovsk-montajnye-raboty/default.htm">Дедовск</a></li>
+												<li ><a href="../montajnye-raboty/dzerjinskiy-montajnye-raboty/default.htm">Дзержинский</a></li>
+												<li ><a href="../montajnye-raboty/dmitrov-montajnye-raboty/default.htm">Дмитров</a></li>
+												<li ><a href="../montajnye-raboty/dolgoprudnyy-montajnye-raboty/default.htm">Долгопрудный</a></li>
+												<li ><a href="../montajnye-raboty/domodedovo-montajnye-raboty/default.htm">Домодедово</a></li>
+												<li ><a href="../montajnye-raboty/dubna-montajnye-raboty/default.htm">Дубна</a></li>
+												<li ><a href="../montajnye-raboty/egorevsk-montajnye-raboty/default.htm">Егорьевск</a></li>
+												<li ><a href="../montajnye-raboty/jukovskiy-montajnye-raboty/default.htm">Жуковский</a></li>
+												<li ><a href="../montajnye-raboty/zvenigorod-montajnye-raboty/default.htm">Звенигород</a></li>
+												<li ><a href="../montajnye-raboty/ivanteevka-montajnye-raboty/default.htm">Ивантеевка</a></li>
+												<li ><a href="../montajnye-raboty/istra-montajnye-raboty/default.htm">Истра</a></li>
+												<li ><a href="../montajnye-raboty/klin-montajnye-raboty/default.htm">Клин</a></li>
+												<li ><a href="../montajnye-raboty/kolomna-montajnye-raboty/default.htm">Коломна</a></li>
+												<li ><a href="../montajnye-raboty/korolev-montajnye-raboty/default.htm">Королёв</a></li>
+												<li ><a href="../montajnye-raboty/krasnogorsk-montajnye-raboty/default.htm">Красногорск</a></li>
+												<li ><a href="../montajnye-raboty/lobnya-montajnye-raboty/default.htm">Лобня</a></li>
+												<li ><a href="../montajnye-raboty/lytkarino-montajnye-raboty/default.htm">Лыткарино</a></li>
+												<li ><a href="../montajnye-raboty/lyubercy-montajnye-raboty/default.htm">Люберцы</a></li>
+												<li ><a href="../montajnye-raboty/mytishi-montajnye-raboty/default.htm">Мытищи</a></li>
+												<li ><a href="../montajnye-raboty/naro-fominsk-montajnye-raboty/default.htm">Наро-Фоминск</a></li>
+												<li ><a href="../montajnye-raboty/noginsk-montajnye-raboty/default.htm">Ногинск</a></li>
+												<li ><a href="../montajnye-raboty/odincovo-montajnye-raboty/default.htm">Одинцово</a></li>
+												<li ><a href="../montajnye-raboty/orehovo-zuevo-montajnye-raboty/default.htm">Орехово-Зуево</a></li>
+												<li ><a href="../montajnye-raboty/podolsk-montajnye-raboty/default.htm">Подольск</a></li>
+												<li ><a href="../montajnye-raboty/pushkino-montajnye-raboty/default.htm">Пушкино</a></li>
+												<li ><a href="../montajnye-raboty/ramenskoe-montajnye-raboty/default.htm">Раменское</a></li>
+												<li ><a href="../montajnye-raboty/reutov-montajnye-raboty/default.htm">Реутов</a></li>
+												<li ><a href="../montajnye-raboty/sergiev-posad-montajnye-raboty/default.htm">Сергиев Посад</a></li>
+												<li ><a href="../montajnye-raboty/serpuhov-montajnye-raboty/default.htm">Серпухов</a></li>
+												<li ><a href="../montajnye-raboty/solnechnogorsk-montajnye-raboty/default.htm">Солнечногорск</a></li>
+												<li ><a href="../montajnye-raboty/stupino-montajnye-raboty/default.htm">Ступино</a></li>
+												<li ><a href="../montajnye-raboty/fryazino-montajnye-raboty/default.htm">Фрязино</a></li>
+												<li ><a href="../montajnye-raboty/himki-montajnye-raboty/default.htm">Химки</a></li>
+												<li ><a href="../montajnye-raboty/hotkovo-montajnye-raboty/default.htm">Хотьково</a></li>
+												<li ><a href="../montajnye-raboty/chehov-montajnye-raboty/default.htm">Чехов</a></li>
+												<li ><a href="../montajnye-raboty/shatura-montajnye-raboty/default.htm">Шатура</a></li>
+												<li ><a href="../montajnye-raboty/shelkovo-montajnye-raboty/default.htm">Щелково</a></li>
+												<li ><a href="../montajnye-raboty/elektrostal-montajnye-raboty/default.htm">Электросталь</a></li>
+							</ul></li></ul></li>							<li ><a href="../blagoustroystvo-territorii/default.htm">Благоустройство территории<i class="far fa-angle-right fa-angle-right__js"></i></a>
+				<ul>
+											<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/default.htm">Уборка и вывоз снега</a>
+				<ul>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/balashiha/default.htm">Балашиха</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/vidnoe/default.htm">Видное</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/voskresensk/default.htm">Воскресенск</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/dzerjinskiy/default.htm">Дзержинский</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/dmitrov/default.htm">Дмитров</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/dolgoprudny/default.htm">Долгопрудный</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/domodedovo/default.htm">Домодедово</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/dubna/default.htm">Дубна</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/jukovskiy/default.htm">Жуковский</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/ivanteevka/default.htm">Ивантеевка</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/istra/default.htm">Истра</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/klin/default.htm">Клин</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/kolomna/default.htm">Коломна</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/korolev/default.htm">Королев</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/krasnogorsk/default.htm">Красногорск</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/lobnya/default.htm">Лобня</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/lyubertsy/default.htm">Люберцы</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/mojaysk/default.htm">Можайск</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/mytishi/default.htm">Мытищи</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/naro-fominsk/default.htm">Наро-Фоминск</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/noginsk/default.htm">Ногинск</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/odincovo/default.htm">Одинцово</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/orehovo-zuevo/default.htm">Орехово-Зуево</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/pavlovskiy-posad/default.htm">Павловский Посад</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/podolsk/default.htm">Подольск</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/pushkino/default.htm">Пушкино</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/ramenskoe/default.htm">Раменское</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/reutov/default.htm">Реутов</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/sergiev-posad/default.htm">Сергиев Посад</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/serpuhov/default.htm">Серпухов</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/solnechnogorsk/default.htm">Солнечногорск</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/stupino/default.htm">Ступино</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/himki/default.htm">Химки</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/chehov/default.htm">Чехов</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/shelkovo/default.htm">Щелково</a></li>
+												<li ><a href="../blagoustroystvo-territorii/uborka-vyvoz-snega/elektrostal/default.htm">Электросталь</a></li>
+							</ul></li>								<li ><a href="../blagoustroystvo-territorii/kronirovanie/default.htm">Кронирование, спил веток</a></li>
+												<li ><a href="../blagoustroystvo-territorii/spil-derevev/default.htm">Спил деревьев</a></li>
+												<li ><a href="../blagoustroystvo-territorii/montaj-demontaj-dorojnyh-znakov/default.htm">Дорожные знаки и светофоры</a></li>
+												<li ><a href="../blagoustroystvo-territorii/montaj-demontaj-detskih-ploshadok/default.htm">Монтаж-демонтаж детских площадок</a></li>
+												<li ><a href="../blagoustroystvo-territorii/ukladka-bruschatki/default.htm">Укладка брусчатки</a></li>
+												<li ><a href="../blagoustroystvo-territorii/zemlyanye-raboty/default.htm">Земляные работы</a></li>
+												<li ><a href="../blagoustroystvo-territorii/ozelenenie-territorii/default.htm">Озеленение территории</a></li>
+							</ul></li>							<li ><a href="../moyka-ochistka-fasada/default.htm">Мойка и очистка фасада<i class="far fa-angle-right fa-angle-right__js"></i></a>
+				<ul>
+												<li ><a href="../moyka-ochistka-fasada/vruchnuyu/default.htm">Мойка окон и фасадов вручную</a></li>
+												<li ><a href="../moyka-ochistka-fasada/avd/default.htm">Мойка с АВД</a></li>
+												<li ><a href="../moyka-ochistka-fasada/chistka-ot-snega-naledi/default.htm">Очистка кровель от снега и наледи</a></li>
+												<li ><a href="../moyka-ochistka-fasada/reklamnyh-konstrukciy/default.htm">Мойка рекламных и иных конструкций</a></li>
+												<li ><a href="../moyka-ochistka-fasada/kislotno-shelochnye-sredstva/default.htm">Мойка кислотно-щелочными средствами</a></li>
+												<li ><a href="../moyka-ochistka-fasada/ot-solevyh-otslojneniy/default.htm">Очистка от солевых отложений</a></li>
+												<li ><a href="../moyka-ochistka-fasada/mramornyh-granitnyh-pokrytiy/default.htm">Очистка мраморных гранитных покрытий</a></li>
+												<li ><a href="../moyka-ochistka-fasada/poslestroitelnaya/default.htm">Послестроительная мойка зданий</a></li>
+							</ul></li>							<li ><a href="../germetizaciya/default.htm">Герметизация<i class="far fa-angle-right fa-angle-right__js"></i></a>
+				<ul>
+												<li ><a href="../germetizaciya/okna-balkony/default.htm">Герметизация окон и балконов</a></li>
+												<li ><a href="../germetizaciya/mejpanelnyh-shvov/default.htm">Герметизация межпанельных швов</a></li>
+							</ul></li>								<li ><a href="../podnyatie-gruzov-na-vysotu/default.htm">Поднятие грузов на высоту</a></li>
+												<li ><a href="../obespylivanie/default.htm">Обеспыливание</a></li>
+												<li ><a href="../razmetka-ukladka-asfalta/default.htm">Разметка и укладка асфальта</a></li>
+												<li ><a href="../engeenier-sistems/default.htm">Инженерные системы</a></li>
+					</ul>
+</nav>
+						</div>
+											</div>
+				</div>
+								<div class="main col-lg-6 col-md-9">
+				<h1>Страница не найдена (ошибка 404)</h1>
+<p>Мы приносим свои извинения за доставленные неудобства и предлагаем следующие пути: </p>
+<ul>
+<li>перейти на <a href="../default.htm">Главную страницу</a>; </li>
+<li>связаться с нами по указанным <a href="../contacts/default.htm">контактам</a>; </li>
+<li>написать письмо на <a href="mailto:info@barstt.ru?subject=Вопрос по HTML">info@barstt.ru</a>;</li>
+</ul>
+
+				</div>
+				<div class="col-lg-3 col-md-9 side-follow-wrapper--js">
+					<div class="side-follow--js">
+						<div id="comp_139a1800ea28f921b0d1b5bee5f62771">
+<div class="form-wrapper">
+
+<form name="FREE_CONSULT" action="/images/fullscreen-bg.jpg" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_139a1800ea28f921b0d1b5bee5f62771_8BACKi" value="139a1800ea28f921b0d1b5bee5f62771" /><input type="hidden" name="AJAX_CALL" value="Y" /><input type="hidden" name="sessid" id="sessid" value="fe60615c1c3483f8628b7d8e727f2958" /><input type="hidden" name="WEB_FORM_ID" value="2" />
+	<div class="cons__title">Бесплатная консультация</div>
+<p></p>	
+
+	<div class="cons__row">
+		<label>Ваше имя<font color="red"><span class="form-required starrequired">*</span></font></label>
+		<input type="text" class="inputtext" name="form_text_2" value="" >
+	</div>
+	<div class="cons__row">
+		<label>Телефон<font color="red"><span class="form-required starrequired">*</span></font></label>
+		<input type="text" class="inputtext phone-mask--js" name="form_text_3" value="" >
+	</div>
+	<div class="cons__row">
+		<label>Вопрос</label>
+		<textarea name="form_textarea_4" cols="40" rows="5" class="inputtextarea"></textarea>
+	</div>
+
+
+
+<div class="cons__row center cons__submit-wrapper">
+	<input class="cons__submit"  type="submit" name="web_form_submit" value="Отправить" />
+</div>
+
+
+</form></div>
+
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<div class="footer-form side-follow--stop-js">
+		<div class="row">
+			<div class="col-md-8">
+				<p class="title">Остались вопросы?</p>
+				<p class="descr">Мы с радостью на них ответим! Оставьте свои контакты,<br/>
+					и с Вами свяжется персональный консультант</p>
+					<a onclick="yaCounter15672001.reachGoal('zakaz_ost_v');" href="#" class="btn orange-btn change-form-ya-event--js" data-toggle="modal" data-target=".FEEDBACK" data-form_ya_event="zakaz_ost_v_ok">Задать вопрос</a>
+			</div>
+		</div>
+</div>	<footer class="dark">
+				<div class="subfooter">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+<div >
+						<p>© 2018 «БАРСТТ» - промышленный альпинизм в Москве<br>
+Все права защищены.
+</p>
+<br><br><br>
+<p style="">Заполняя любую форму на сайте, вы соглашаетесь <br>с <a style="text-decoration: underline;" href="../local/assets/files/Scan_20180111_164835.pdf" target="_blank">политикой конфиденциальности</a>.</p>
+						</div>
+					</div>
+					<div class="col-lg-2 col-md-1 subfooter__info">
+<nav class="navbar navbar-default" role="navigation">  
+	<div class="collapse navbar-collapse" id="navbar-collapse-2">
+		<ul class="nav navbar-nav">
+									<li><a href="../default.htm">Главная</a></li>
+												<li><a href="../prices/default.htm">Цены</a></li>
+												<li><a href="../portfolio/default.htm">Портфолио</a></li>
+												<li><a href="../about/default.htm">О компании</a></li>
+												<li><a href="../contacts/default.htm">Контакты</a></li>
+												<li><a href="../karta-sayta/default.htm">Карта сайта</a></li>
+							</ul>
+	</div>
+</nav>
+						</div>
+					<div class="col-lg-5 col-md-6 hidden-sm">
+						<p><i class="fa fa-map-marker" aria-hidden="true"></i> г. Москва, ул. Угличская, дом 12, корпус 1, 2 этаж</p>
+<p>
+<span class="footer-phone"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel_3A+74955174606"> +7 (495) 517 46 06</a></span>
+</p>
+<p><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@barstt.ru">info@barstt.ru</a></p>
+<a class="group_company" href="../../gk.barstt.ru/default.htm"></a>
+
+					</div>
+					<div class="col-lg-5 col-md-6 hidden-sm">
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
+<div class="scrollToTop"><i class="icon-up-open-big"></i></div>
+<div class="modal fade FEEDBACK" tabindex="-1" role="dialog" aria-labelledby="FLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Закрыть</span></button>
+				<div style="font-weight:bold;" class="modal-title" id="FLabel">Задать вопрос</div>
+			</div>
+			<form name="FEEDBACK_MODAL" action="/include/" method="POST" role="form" data-form_ya_event="">
+				<input type="hidden" name="FEEDBACK_MODAL[SITE_ID]" value="s1"/>
+				<input type="hidden" name="FEEDBACK_MODAL[TITLE]" value="Задать вопрос"/>
+				<div class="modal-body">
+					<p><i class="icon-check"></i> Пожалуйста заполните все поля. Наш специалист свяжется с вами в ближайшее время.</p>
+					<div id="results-feedback-modal">
+						<div class="alert alert-danger" id="beforesend-feedback-modal">
+							Пожалуйста заполните все поля.
+						</div>
+						<div class="alert alert-danger" id="error-feedback-modal">
+							Ошибка отправки сообщения.
+						</div> 
+						<div class="alert alert-success" id="success-feedback-modal">
+							Спасибо, ваше сообщение отправлено администрации сайта.
+						</div>
+					</div>
+					<img src="loading.gif" alt="Loading" id="form-loading-feedback-modal" class="pull-right mb-10" />
+					<div class="clearfix"></div>
+					<div class="form-group has-feedback">
+						<input type="text" class="form-control req" name="FEEDBACK_MODAL[NAME]" placeholder="Имя">
+						<i class="fa fa-user form-control-feedback"></i>
+					</div>
+					<div class="form-group has-feedback">
+						<input type="text" class="form-control req phone-mask--js" name="FEEDBACK_MODAL[PHONE]" placeholder="Телефон">
+						<i class="fa fa-phone form-control-feedback"></i>
+					</div>
+										<div class="form-group has-feedback">
+						<textarea rows="4" class="form-control req" name="FEEDBACK_MODAL[COMMENT]" placeholder="Ваш вопрос"></textarea>
+						<i class="fa fa-pencil form-control-feedback"></i>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="submit" class="btn btn-sm btn-default"><i class="icon-check"></i>Отправить</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<div class="call_back_mdfrom">
+<div class="call_back_mdfrom__close">×</div>
+<form name="CALLBACK_MODAL" action="/include/" method="POST" class="login-form">
+	<div id="results-callback-modal">
+		<!--
+		<div class="alert alert-danger" id="beforesend-callback-modal">
+			Пожалуйста заполните все поля.
+		</div>
+		-->
+		<div class="alert alert-danger" id="error-callback-modal">
+			Ошибка отправки формы.
+		</div>
+		<div class="alert alert-success" id="success-callback-modal">
+			Спасибо, ждите звонка.
+		</div>
+	</div>
+	<div class="clearfix"><img src="loading.gif" alt="Загрузка" id="form-loading-callback-modal" class="pull-right" /></div>
+	<input type="hidden" name="CALLBACK_MODAL[SITE_ID]" value="s1"/>
+	<input type="hidden" name="CALLBACK_MODAL[TITLE]" value="Обратный звонок"/>
+	<div class="form-group has-feedback">
+		<label class="control-label">Ваше имя</label>
+		<input type="text" name="CALLBACK_MODAL[NAME]" placeholder="Имя" class="form-control req">
+		<i class="fa fa-user form-control-feedback"></i>
+	</div>
+	<div class="form-group has-feedback">
+		<label class="control-label">Телефон</label>
+		<input type="tel" name="CALLBACK_MODAL[PHONE]" pattern="(([ ]*[\+]?[ ]*\d{1,5})[ ]*[\-]?[ ]*)?(\(?\d{1,5}\)?[ ]*[\-]?[ ]*)?[\d\- ]{5,13}" placeholder="Телефон" class="form-control req phone-mask--js">
+		<i class="fa fa-phone form-control-feedback"></i>
+	</div>
+	<p>Нажимая кнопку «Отправить» я соглашаюсь с условиями <a href="../local/assets/files/Scan_20180111_164835.pdf" target="_blank">политики обработки персональных данных</a>.</p>
+	<button type="submit" class="btn btn-group btn-default btn-sm pull-right">Заказать звонок</button>
+</form>
+										
+</div>
+
+<!-- Yandex.Metrika counter -->
+ <noscript><div><img src="../../https@mc.yandex.ru/watch/15672001" style="position:absolute; left:-9999px;" alt="YM" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<div itemscope itemtype="http://schema.org/Organization" style="display:none;">
+	<meta itemprop="name" content="БАРСТТ - промышленный альпинизм">
+	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<meta itemprop="streetAddress" content="Угличская, дом 12, корпус 1, 2 этаж">
+		<meta itemprop="postalCode" content="127572">
+		<meta itemprop="addressLocality" content="Москва">
+		<meta itemprop="telephone" content="+7 495 517 46 06">
+		<meta itemprop="email" content="info@barstt.ru">
+	</div>
+</div>
+<div itemscope itemtype="http://schema.org/LocalBusiness" style="display:none;">
+	<img src="logo.png" itemprop="image">
+	<meta itemprop="name" content="БАРСТТ - промышленный альпинизм">
+	<meta itemprop="address" content="Угличская, дом 12, корпус 1, 2 этаж">
+	<time itemprop="openingHours" datetime="Mo-Su 09:00−20:00">
+	<meta itemprop="telephone" content="+7 495 517 46 06">
+	<meta itemprop="email" content="info@barstt.ru">
+</div>
+
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/plugins/jquery.min.js"></script>
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/bootstrap/js/bootstrap.min.js"></script>
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/plugins/modernizr.js"></script>
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/plugins/isotope/isotope.pkgd.min.js"></script>
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/plugins/owl-carousel/owl.carousel.js"></script>
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/plugins/jquery.appear.js"></script>
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/plugins/jquery.parallax-1.1.3.js"></script>
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/plugins/jquery.browser.js"></script>
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/plugins/SmoothScroll.js"></script>
+<script src="../bitrix/templates/s1_detail_effortless_sergeland/js/plugins.js"></script>
+<script src="../local/assets/js/jquery.mask.min.js"></script>
+<script src="../local/assets/js/slick.js"></script>
+<script src="../local/assets/js/template.js"></script>
+
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'../default.htm','USER_ID':'','SERVER_TIME':'1549691153','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'fe60615c1c3483f8628b7d8e727f2958'});</script><script type="text/javascript" src="../bitrix/cache/js/s1/s1_detail_effortless_sergeland/kernel_main/kernel_main.js@1541972891280214"></script>
+<script type="text/javascript">BX.setJSList(['../bitrix/js/main/core/core.js','../bitrix/js/main/core/core_ajax.js','../bitrix/js/main/json/json2.min.js','../bitrix/js/main/core/core_ls.js','../bitrix/js/main/session.js','../bitrix/js/main/core/core_window.js','../bitrix/js/main/core/core_popup.js','../bitrix/js/main/core/core_date.js','../bitrix/js/main/utils.js','../bitrix/templates/.default/components/bitrix/menu/top/script.js','../bitrix/templates/s1_detail_effortless_sergeland/components/bitrix/menu/left_new/script.js','../bitrix/templates/.default/components/bitrix/form/right_form/bitrix/form.result.new/.default/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['../bitrix/js/main/core/css/core.css','../bitrix/js/main/core/css/core_popup.css','../bitrix/js/main/core/css/core_date.css','../bitrix/templates/s1_detail_effortless_sergeland/components/bitrix/menu/left_new/style.css','../bitrix/templates/.default/components/bitrix/form/right_form/bitrix/form.result.new/.default/style.css','../bitrix/templates/s1_detail_effortless_sergeland/template_styles.css']); </script>
+
+
+<script type="text/javascript" src="../bitrix/cache/js/s1/s1_detail_effortless_sergeland/template_d43d853dfec805cbc40a8b4e36e7de68/template_d43d853dfec805cbc40a8b4e36e7de68.js@15419728926317"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "9cfcd0774421ed9c11e369641502a976"]); _ba.push(["host", "www.barstt.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "../../https@" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+<script src="../../https@oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="../../https@oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<script>
+    (function(w, d, u, i, o, s, p) {
+        if (d.getElementById(i)) { return; } w['MangoObject'] = o;
+        w[o] = w[o] || function() { (w[o].q = w[o].q || []).push(arguments) }; w[o].u = u; w[o].t = 1 * new Date();
+        s = d.createElement('script'); s.async = 1; s.id = i; s.src = u;
+        p = d.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+    }(window, document, '../../widgets.mango-office.ru/widgets/mango.js', 'mango-js', 'mgo'));
+    mgo({calltracking: {id: 11523, elements: [{"selector":".mgo-number-11523"}]}});
+</script>
+<script>
+	jQuery(function(){
+		var	headerTopHeight = $(".header-top").outerHeight(),
+		headerHeight = $("header.header.float").outerHeight();
+		$(window).scroll(function() {
+			if (($(".header.float").length > 0)) {
+				if(($(this).scrollTop() > headerTopHeight+headerHeight) && ($(window).width() > 767)) {
+					$("body").addClass("fixed-header-on");
+					$(".header.float").addClass('animated object-visible fadeInDown');
+					if (!($(".header.transparent").length>0)) {
+						if ($(".banner:not(.header-top)").length>0) {
+							$(".banner").css("marginTop", (headerHeight)+"px");
+						} else if ($(".page-intro").length>0) {
+							$(".page-intro").css("marginTop", (headerHeight)+"px");
+						} else if ($(".page-top").length>0) {
+							$(".page-top").css("marginTop", (headerHeight)+"px");
+						} else {
+							$("section.main-container").css("marginTop", (headerHeight)+"px");
+						}
+					}
+				} else {
+					$("body").removeClass("fixed-header-on");
+					$("section.main-container").css("marginTop", (0)+"px");
+					$(".banner").css("marginTop", (0)+"px");
+					$(".page-intro").css("marginTop", (0)+"px");
+					$(".page-top").css("marginTop", (0)+"px");
+					$(".header.float").removeClass('animated object-visible fadeInDown');
+				}
+			};
+		});
+	});
+	</script>
+<script type="text/javascript">
+function _processform_8BACKi(){
+	var obForm = top.BX('bxajaxid_139a1800ea28f921b0d1b5bee5f62771_8BACKi').form;
+	top.BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_139a1800ea28f921b0d1b5bee5f62771', true)});
+	top.BX.removeCustomEvent('onAjaxSuccess', _processform_8BACKi);
+}
+if (top.BX('bxajaxid_139a1800ea28f921b0d1b5bee5f62771_8BACKi'))
+	_processform_8BACKi();
+else
+	top.BX.addCustomEvent('onAjaxSuccess', _processform_8BACKi);
+</script><script type="text/javascript">
+/* init Call Service */
+var CallSiteId = '7ea5cd41aa5a4cc0ba6b69fe6f50a0ec';
+var CallBaseUrl = '../../uptocall.com';
+(function() {
+    var lt = document.createElement('script');
+  lt.type ='text/javascript';
+  lt.charset = 'utf-8';
+  lt.async = true;
+  lt.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + CallBaseUrl + '/widget/client.js?rnd='+Math.floor(Math.random(0,1000)*1000);
+  var sc = document.getElementsByTagName('script')[0];
+  if (sc) sc.parentNode.insertBefore(lt, sc);
+  else document.documentElement.firstChild.appendChild(lt);
+})();
+</script>
+<!--ipt type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter15672001 = new Ya.Metrika({ id:15672001, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </scri--><!--ipt>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101797848-1', 'auto');
+  ga('send', 'pageview');
+
+</scri-->
+
+</body>
+</html>

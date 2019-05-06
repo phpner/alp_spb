@@ -1,0 +1,22 @@
+
+ # Обработка 404 и 403 ошибки
+ ErrorDocument 404 /404.php
+ ErrorDocument 403 /
+ # Запускаем движок замены
+
+RewriteEngine on
+
+RewriteBase /
+ # Если запрашиваемый объект не папка
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+ # если запрашиваемый объект с дописанным расширением php - файл
+
+RewriteCond %{REQUEST_FILENAME}\.php -f
+
+ # делаем замену с дописыванием .php
+
+RewriteRule ^(.*)$ $1.php
+
+
